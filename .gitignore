@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# production build
+build/
+
+# environment variables (keep .env.example only)
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# misc
+*.log
+npm-debug.log*
